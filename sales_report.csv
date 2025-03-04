@@ -1,0 +1,16 @@
+sale_id,customer_id,product,quantity,price,sale_date,customer_name,region,age,total_revenue
+1,1,Laptop,2,50000.0,2024-02-01,Alice Johnson,North America,30,100000.0
+2,2,Smartphone,1,230000.0,2024-02-05,Bob Smith,Europe,40,230000.0
+3,3,Tablet,3,60000.0,2023-02-10,Charlie Zhang,Asia,35,180000.0
+4,4,Airpods,2,100000.0,2022-05-10,Robert Monero,Mexico,35,200000.0
+5,5,Speakers,1,30000.0,2024-03-12,Hector Munez,USA,50,30000.0
+6,1,Laptop,2,50000.0,2024-02-01,Alice Johnson,North America,30,100000.0
+7,2,Smartphone,1,230000.0,2024-02-05,Bob Smith,Europe,40,230000.0
+8,3,Tablet,3,60000.0,2023-02-10,Charlie Zhang,Asia,35,180000.0
+9,4,Airpods,2,100000.0,2022-05-10,Robert Monero,Mexico,35,200000.0
+10,5,Speakers,1,30000.0,2024-03-12,Hector Munez,USA,50,30000.0
+11,1,Laptop,2,50000.0,2024-02-01,Alice Johnson,North America,30,100000.0
+12,2,Smartphone,1,230000.0,2024-02-05,Bob Smith,Europe,40,230000.0
+13,3,Tablet,3,60000.0,2023-02-10,Charlie Zhang,Asia,35,180000.0
+14,4,Airpods,2,100000.0,2022-05-10,Robert Monero,Mexico,35,200000.0
+15,5,Speakers,1,30000.0,2024-03-12,Hector Munez,USA,50,30000.0
