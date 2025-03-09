@@ -8,5 +8,5 @@
   <li>With the help of pandas I have been able to manipulate, clean and wrangle data as well.</li>
   <li>The cleaned data is then pushed to a .csv file.</li>
   <li>Using this .csv file I have been able to create a visualized report using Power-BI.</li>
-  <li>Here is the google drive link for Power-BI:- <a href="https://drive.google.com/file/d/1unpc6SdT2FCAfSIAWwBYi57wl9NQRqgJ/view?usp=drive_link">Power-Bi file G-Drive link</a>You'll may download the enitre .pbix file, download Microsoft Power-BI Desktop from Microsoft Store and open the same .pbix file with power bi and view the report.</li>
+  <li>Here is the google drive link for Power-BI:- <a href="[https://drive.google.com/file/d/1unpc6SdT2FCAfSIAWwBYi57wl9NQRqgJ/view?usp=drive_link](https://drive.google.com/file/d/1oGIKFjyc1_iv03DVmXijrc9U6eAvSwv9/view?usp=drive_link)">Power-Bi file G-Drive link</a>You'll may download the enitre .pbix file, download Microsoft Power-BI Desktop from Microsoft Store and open the same .pbix file with power bi and view the report.</li>
 </ul>
